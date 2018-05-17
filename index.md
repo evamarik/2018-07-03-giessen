@@ -21,5 +21,6 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 <h2 id="general">Workshop update</h2>
 <h3>Please note that the workshop details have changed:</h3> 
 <p id="workshop_update">
-  Updated information can be found at <url>https://evamarik.github.io/2018-06-25-marburg/</url>.  
+  Updated information can be found at 
+<a href="https://evamarik.github.io/2018-06-25-marburg/">evamarik.github.io/2018-06-25-marburg</a>.
 </p>
