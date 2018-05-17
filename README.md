@@ -1,3 +1,8 @@
+
+# Workshop details have changed
+
+The workshop place and dates have been updated, therefore we opened the new repository 2018-06-25-marburg. For further information, please visit https://evamarik.github.io/2018-06-25-marburg/.
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
